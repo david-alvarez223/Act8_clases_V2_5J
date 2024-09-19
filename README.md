@@ -1,6 +1,6 @@
 # Act8_clases_V2_5J
 clases version 2
 # Codigo
-- ![imagen](https://github.com/user-attachments/assets/e5ec080e-200b-4c99-8042-82e8a7831528)
+- ![imagen](https://github.com/user-attachments/assets/b60b586b-fb9f-47fa-98cf-c3be855da20e)
 # Resultado
-- ![imagen](https://github.com/user-attachments/assets/174fc835-31b0-4c49-85f8-6e3caa4e1117)
+- ![imagen](https://github.com/user-attachments/assets/1d44ecb5-9b79-43a4-9c7c-2187a742b9e3)
